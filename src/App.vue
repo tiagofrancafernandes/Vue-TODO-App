@@ -1,5 +1,9 @@
 <script setup>
-import { computed, onMounted, ref } from 'vue';
+import {
+    computed,
+    onMounted,
+    ref,
+} from 'vue';
 
 const todos = ref([]);
 const inputValue = ref('');
@@ -80,7 +84,7 @@ const handleKeyDown = (event) => {
         <div class="max-w-2xl mx-auto">
             <!-- Header -->
             <div class="text-center mb-8">
-                <h1 class="text-4xl font-bold text-gray-800 mb-2">Todo App</h1>
+                <h1 class="text-4xl font-bold text-gray-800 mb-2">Another TODO App</h1>
                 <p class="text-gray-600">Manage your tasks efficiently</p>
             </div>
 
