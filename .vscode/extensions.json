@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "digitalbrainstem.javascript-vue",
+        "esbenp.prettier-vscode",
+        "rvest.vs-code-prettier-eslint"
+    ]
+}
