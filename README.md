@@ -24,15 +24,15 @@ A modern and elegant task management application built with Vue 3, Vite, and Tai
 
 ## Features
 
-✨ **Create Tasks** - Add new tasks with a simple and intuitive interface
-✅ **Mark as Complete** - Toggle task completion status with a single click
-🗑️ **Delete Tasks** - Remove individual tasks from your list
-🔍 **Filter Tasks** - View all tasks, pending tasks, or completed tasks
-📊 **Statistics Dashboard** - Real-time statistics showing total, completed, and pending tasks
-💾 **LocalStorage Persistence** - All your tasks are automatically saved to your browser's LocalStorage
-⌨️ **Keyboard Support** - Press Enter to quickly add a new task
-🎨 **Responsive Design** - Beautiful, responsive UI that works on all devices
-🌈 **Modern Styling** - Built with TailwindCSS v4 for a clean and modern look
+✨ **Create Tasks** - Add new tasks with a simple and intuitive interface <br>
+✅ **Mark as Complete** - Toggle task completion status with a single click <br>
+🗑️ **Delete Tasks** - Remove individual tasks from your list <br>
+🔍 **Filter Tasks** - View all tasks, pending tasks, or completed tasks <br>
+📊 **Statistics Dashboard** - Real-time statistics showing total, completed, and pending tasks <br>
+💾 **LocalStorage Persistence** - All your tasks are automatically saved to your browser's LocalStorage <br>
+⌨️ **Keyboard Support** - Press Enter to quickly add a new task <br>
+🎨 **Responsive Design** - Beautiful, responsive UI that works on all devices <br>
+🌈 **Modern Styling** - Built with TailwindCSS v4 for a clean and modern look <br>
 
 ## Technologies
 
