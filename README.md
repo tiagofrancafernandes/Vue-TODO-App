@@ -2,6 +2,26 @@
 
 A modern and elegant task management application built with Vue 3, Vite, and TailwindCSS v4. This application allows you to create, manage, and track your daily tasks efficiently with automatic data persistence using the browser's LocalStorage.
 
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/tiagofrancafernandes/Vue-TODO-App/tree/master"><img src="https://vercel.com/button"></a>
+
+
+## Table of Contents
+- [Features](#features)
+- [Technologies](#technologies)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data Persistence](#data-persistence)
+- [Available Scripts](#available-scripts)
+- [TailwindCSS v4 Configuration](#tailwindcss-v4-configuration)
+- [Browser Support](#browser-support)
+- [Development](#development)
+- [License](#license)
+- [Contributing](#contributing)
+- [Support](#support)
+- [Thanks](#thanks)
+
+
 ## Features
 
 ✨ **Create Tasks** - Add new tasks with a simple and intuitive interface
@@ -173,3 +193,10 @@ If you encounter any issues or have questions about the application, please crea
 ---
 
 **Happy task managing!** ✨
+
+### Thanks
+
+- [Vercel](https://vercel.com)
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [TailwindCSS v4](https://tailwindcss.com/)
