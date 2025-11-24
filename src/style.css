@@ -1,5 +1,9 @@
 @import 'tailwindcss';
 
+div button:not(:disabled) {
+    cursor: pointer;
+}
+
 .buttons-group button:not(:disabled) {
     cursor: pointer;
 }

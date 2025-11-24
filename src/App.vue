@@ -182,7 +182,7 @@ const handleKeyDown = (event) => {
                     <button
                         @click="toggleTheme"
                         :class="[
-                            'px-3 py-2 rounded-lg transition-colors',
+                            'px-3 py-2 rounded-lg transition-colors cursor-pointer',
                             {
                                 'bg-gray-700 text-white hover:bg-gray-600': isDarkMode,
                                 'bg-white text-gray-800 hover:bg-gray-100': !isDarkMode,
