@@ -1,5 +1,7 @@
 # Todo App
 
+🇬🇧 English | [🇧🇷 Português](./README.pt-br.md)
+
 A modern and elegant task management application built with Vue 3, Vite, and TailwindCSS v4. This application allows you to create, manage, and track your daily tasks efficiently with automatic data persistence using the browser's LocalStorage.
 
 <a href="https://vercel.com/new/clone?repository-url=https://github.com/tiagofrancafernandes/Vue-TODO-App/tree/master"><img src="https://vercel.com/button"></a>
@@ -33,6 +35,8 @@ A modern and elegant task management application built with Vue 3, Vite, and Tai
 ⌨️ **Keyboard Support** - Press Enter to quickly add a new task <br>
 🎨 **Responsive Design** - Beautiful, responsive UI that works on all devices <br>
 🌈 **Modern Styling** - Built with TailwindCSS v4 for a clean and modern look <br>
+🌓 **Dark and Light Mode** - Toggle between dark and light themes with automatic persistence <br>
+✏️ **Edit Tasks** - Edit existing tasks inline with keyboard support <br>
 
 ## Technologies
 
@@ -97,6 +101,10 @@ A modern and elegant task management application built with Vue 3, Vite, and Tai
 ### Deleting a Task
 - Click the **Delete** button on any task to remove it from your list
 
+### Editing a Task
+- Click the **Edit** button on a task to edit it inline
+- Press **Enter** to save or **Escape** to cancel
+
 ### Filtering Tasks
 - Use the filter buttons to view:
   - **All** - All tasks (default)
@@ -106,6 +114,10 @@ A modern and elegant task management application built with Vue 3, Vite, and Tai
 ### Clearing Completed Tasks
 - When you have completed tasks, a **Clear Completed Tasks** button appears
 - Click it to remove all completed tasks at once
+
+### Toggling Theme
+- Use the sun/moon icon button in the top-right corner to toggle between light and dark mode
+- Your theme preference is saved automatically
 
 ## Data Persistence
 
@@ -174,7 +186,6 @@ Possible improvements for future versions:
 - User authentication and accounts
 - Task categories or tags
 - Due dates and reminders
-- Dark mode toggle
 - Task export functionality
 - Drag-and-drop reordering
 
